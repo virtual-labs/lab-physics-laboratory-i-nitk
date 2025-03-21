@@ -96,16 +96,16 @@
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-          "University of Calicut - Electronics Practical"
-          "University of Calicut - Physics Practical"
-          "University of Calicut - Electronics Practical"
-          "Mangalore University - General Practicals (Electronics)"
-          "Mangalore University - CONDENSED MATTER PHYSICS PRACTICALS II"
-          "Mangalore University - PHYSICS PRACTICAL II GENERAL Mangalore University - NUCLEAR PHYSICS PRACTICAL II"
-          "Mangalore University - ELECTRONICS PRACTICALS I"
-          "Central University of Karnataka - PHYSICS LAB 3"
-          "Central University of Karnataka - PHYSICS LAB 1"
-          "Central University of Karnataka - ELECTRONICS LAB 1"
+          "University of Calicut - Electronics Practical",
+          "University of Calicut - Physics Practical",
+          "University of Calicut - Electronics Practical",
+          "Mangalore University - General Practicals (Electronics)",
+          "Mangalore University - CONDENSED MATTER PHYSICS PRACTICALS II",
+          "Mangalore University - PHYSICS PRACTICAL II GENERAL Mangalore University - NUCLEAR PHYSICS PRACTICAL II",
+          "Mangalore University - ELECTRONICS PRACTICALS I",
+          "Central University of Karnataka - PHYSICS LAB 3",
+          "Central University of Karnataka - PHYSICS LAB 1",
+          "Central University of Karnataka - ELECTRONICS LAB 1",
           "Central University of Karnataka - ELECTRONICS LAB 1"
     ]
   }
